@@ -108,7 +108,7 @@ game.ReplicatedStorage:FindFirstChild(".gg/untitledhood"):FireServer(
         Parent = Game.Players.LocalPlayer.Backpack,
         ClassName = "Tool",
         Ammo = game:GetService("Players")[_G.Kenaii].DataFolder.Currency,
-        MaxAmmo = {Value = _G.Amount2},
+        MaxAmmo = {Value = _G.Amount3},
         GunScript = game:GetService("Players").LocalPlayer.Backpack["[Revolver]"].GunScript,
         Handle = game:GetService("Players").LocalPlayer.Backpack["[Revolver]"].Handle
     }
