@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("allcashware v3.6 | untitled hood", "Sentinel")
+local Window = Library.CreateLib("allcashware v3.5 | untitled hood", "Sentinel")
 local Tab = Window:NewTab("main")
 local Section = Tab:NewSection("open me")
 
